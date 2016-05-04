@@ -95,3 +95,19 @@ footer .parr {
 	margin-left: -2%;
 	margin-top: 4%;
 }
+
+.secciones {
+	background-color: #D75847;
+}
+
+.img-seccion {
+	width: 100%;
+}
+
+.secc-con {
+	margin-bottom: 1%;
+}
+
+.text-secc {
+	width: 50%;
+}
