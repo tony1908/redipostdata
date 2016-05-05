@@ -97,6 +97,7 @@ footer .parr {
 }
 
 .secciones {
+	/*width: 100%;*/
 	background-color: #D75847;
 }
 
@@ -111,3 +112,13 @@ footer .parr {
 .text-secc {
 	width: 50%;
 }
+
+.secc-con h1 {
+	color: white;
+}
+
+.sin-m {
+	padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
