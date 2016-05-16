@@ -1,0 +1,16 @@
+.fondo-secc {
+	/*height: 50vh !important;*/
+	background-color:#D75847; 
+}
+
+.fondo-secc p {
+	font-size: 1.3em;
+	color: white;
+	padding: 15% 6% 15% 6%;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+.imageSec {
+	width: 100%;
+}

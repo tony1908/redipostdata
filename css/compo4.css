@@ -1,0 +1,34 @@
+.fondo-secc {
+	border-style: solid;
+    border-color: transparent #E6E6E6 #E6E6E6 #E6E6E6;
+    /*box-shadow: 1px 1px 1px #E6E6E6;*/
+}
+
+.fondo-secc2 {
+	height: 20vh;
+	border-style: solid;
+    border-color: transparent #E6E6E6 #E6E6E6 #E6E6E6;
+    /*box-shadow: 1px 1px 1px #E6E6E6;*/
+}
+
+.fondo-secc p {
+	font-size: 1.3em;
+	color: black;
+	padding: 15% 6% 15% 6%;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+.imageSec {
+	width: 100%;
+}
+
+.imageSec2 {
+	height: 19vh;
+	width: 12vw;
+}
+
+.pAli {
+	font-size: 1em !important;
+	padding: 5% 4% 5% 4% !important;
+}
